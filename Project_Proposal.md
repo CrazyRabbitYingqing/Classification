@@ -19,8 +19,11 @@ numerical, some are categorical, so a feature engineering procedure is expected.
 
 Tools:
 
-Since 
+I will use python to further clean the dataset before analysis.
+I will use python package (sklearn) to generate at least three classification models for the dataset.
+I will use both python and Tableau for data visualization.
 
 MVP Goal:
 
-What would a minimum viable product (MVP) look like for this project?
+In the MVP, I will use the cleaned up train data set to fit at least one classification model (Logistic-regression).
+Metrics taught in the lessons will be applied and analysed. I will produce one to two plots to summarize my results.
