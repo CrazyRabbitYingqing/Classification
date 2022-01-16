@@ -14,3 +14,6 @@ After modest feature engineering, there left 140 features for conducting classif
 1. A better feature engineering will be performed (including a pair plot at the beginning).
 2. SMOTE will also be applied to remedy class imbalance.
 3. Random Forest, other boosted tree models and KNN will also be used and compared in the end.
+
+![](confusion_matrix.png)
+![](ROC_curve.png)
