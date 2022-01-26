@@ -2,7 +2,7 @@
 ### Loan Defaulter Classification
 #### Abstract
 
-The goal of this project was to use classification models to predict whether the customer will be a loan defaulter or not. I worked with dataset from Kaggle along with different classification models, such as KNN, Logistic Regression, Decision Tree, Random Forest, and XGBoost, to achieve a valuable prediction. After refining a model, important features are determined as well as the final testing score of the model.
+The goal of this project was to use classification models to predict whether the customer will be a loan defaulter or not. I worked with dataset from Kaggle along with different classification models, such as KNN, Logistic Regression, Decision Tree, Random Forest, and XGBoost, to achieve a valuable prediction. The data set is highly imbalanced so that oversampling and SMOTE were applied. After refining a model, important features are determined as well as the final testing score of the model. Overall, the model performance is lower than I expected, better data set will be collected in the future to focus more on the customer's personnel information.
 
 #### Design
 
